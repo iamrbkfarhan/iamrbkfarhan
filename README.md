@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Learning new tools and technologies**
 - 🌱 I’m currently learning **Android Development and Competitive Programming**
-- 🤔 I’m looking for with **Internships**
+- 🤔 I’m looking for  **Internships**
 </br>
 </br>
 <p align="center" >  
